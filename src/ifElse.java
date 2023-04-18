@@ -26,6 +26,9 @@ public class ifElse {
             System.out.println("Weird");
 
         } else if (n > 20 && n % 2 == 0) {
+            System.out.println("Not Weird");
+
+        }else {
             System.out.println("Weird");
 
         }
